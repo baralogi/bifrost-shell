@@ -2,6 +2,8 @@
 
 My wonderful setting for terminal with ITerm2, zsh, and powerlevel10k to increase productivity
 
+![image](https://github.com/baralogi/bifrost-shell/assets/31835484/3b513812-feb6-4e1c-b63d-6fed5e23fd2f)
+
 ## Terminal
 
 Default terminal use [Official ITerm2 Site](https://iterm2.com/)
