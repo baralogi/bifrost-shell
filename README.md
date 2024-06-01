@@ -6,7 +6,7 @@ My wonderful setting for terminal with ITerm2, zsh, and powerlevel10k to increas
 
 ## Terminal
 
-Default terminal use [Official ITerm2 Site](https://iterm2.com/)
+Use [Official ITerm2 Site](https://iterm2.com/)
 
 ## Shell
 
